@@ -1,0 +1,10 @@
+ciudad,temperatura_celsius,clasificacion
+CDMX,22.0,Templado
+Nueva York,10.0,Frío
+Moscu,-10.0,Congelante
+Miami,35.0,Caliente
+Cancun,30.0,Caliente
+Chicago,-10.0,Congelante
+Phoenix,40.0,Extremo
+Lima,25.0,Templado
+Bangkok,36.0,Extremo
